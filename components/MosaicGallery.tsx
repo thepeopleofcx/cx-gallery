@@ -1,18 +1,15 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import Image from 'next/image';
-import type { LightroomPhoto } from '@/lib/lightroom';
-import type { Quote } from '@/lib/types';
+import type { GalleryPhoto, Quote } from '@/lib/types';
 
 interface MosaicGalleryProps {
-  photos: LightroomPhoto[];
+  photos: GalleryPhoto[];
   quotes: Quote[];
   title: string;
   subtitle?: string;
   date: string;
   photographer: string;
-  lightroomShareId: string;
 }
 
 export default function MosaicGallery({
@@ -22,13 +19,11 @@ export default function MosaicGallery({
   subtitle,
   date,
   photographer,
-  lightroomShareId,
 }: MosaicGalleryProps) {
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const [visiblePhotos, setVisiblePhotos] = useState<Set<number>>(new Set());
   const observerRef = useRef<IntersectionObserver | null>(null);
 
-  // Intersection observer for fade-in animations
   useEffect(() => {
     observerRef.current = new IntersectionObserver(
       (entries) => {
@@ -41,15 +36,12 @@ export default function MosaicGallery({
       },
       { threshold: 0.1 }
     );
-
     return () => observerRef.current?.disconnect();
   }, []);
 
-  // Keyboard navigation for lightbox
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (lightboxIndex === null) return;
-
       if (e.key === 'ArrowLeft') {
         setLightboxIndex((prev) => (prev === null || prev === 0 ? photos.length - 1 : prev - 1));
       } else if (e.key === 'ArrowRight') {
@@ -58,35 +50,38 @@ export default function MosaicGallery({
         setLightboxIndex(null);
       }
     };
-
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [lightboxIndex, photos.length]);
 
-  // Determine photo size based on score and orientation
-  const getPhotoSize = (photo: LightroomPhoto) => {
-    const isLandscape = photo.width > photo.height;
-    if (photo.score >= 60) return isLandscape ? 'large-landscape' : 'large';
-    if (photo.score >= 55) return 'medium';
-    return 'standard';
-  };
+  // Lock body scroll when lightbox is open
+  useEffect(() => {
+    if (lightboxIndex !== null) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => { document.body.style.overflow = ''; };
+  }, [lightboxIndex]);
 
-  // Render photo grid with interspersed quotes
+  // Determine featured sizing: every 7th photo gets a larger span
+  const isFeature = (index: number) => index % 7 === 0;
+
   const renderGalleryItems = () => {
     const items: React.ReactElement[] = [];
     let quoteIndex = 0;
 
     photos.forEach((photo, index) => {
-      // Insert a quote roughly every 10-12 images
-      if (index > 0 && index % 11 === 0 && quoteIndex < quotes.length) {
+      // Insert a quote roughly every 25-30 images
+      if (index > 0 && index % 28 === 0 && quoteIndex < quotes.length) {
         const quote = quotes[quoteIndex];
         items.push(
           <div
             key={`quote-${quoteIndex}`}
-            className="quote-card col-span-full bg-[#111] rounded-lg p-8 md:p-12 my-4"
+            className="col-span-full bg-[#111] rounded-lg p-8 md:p-12 my-4"
           >
             <blockquote className="text-2xl md:text-3xl lg:text-4xl text-[#e8e8e8] italic font-serif text-center leading-relaxed">
-              "{quote.text}"
+              &ldquo;{quote.text}&rdquo;
             </blockquote>
             {quote.author && (
               <p className="text-sm md:text-base text-gray-400 text-center mt-4">
@@ -98,13 +93,8 @@ export default function MosaicGallery({
         quoteIndex++;
       }
 
-      const size = getPhotoSize(photo);
-      const spanClass =
-        size === 'large-landscape'
-          ? 'col-span-full md:col-span-2'
-          : size === 'large'
-          ? 'col-span-1 md:col-span-2'
-          : 'col-span-1';
+      const featured = isFeature(index);
+      const spanClass = featured ? 'col-span-1 md:col-span-2 row-span-2' : 'col-span-1';
 
       items.push(
         <div
@@ -115,21 +105,20 @@ export default function MosaicGallery({
               observerRef.current.observe(el);
             }
           }}
-          className={`photo-item ${spanClass} ${
+          className={`${spanClass} ${
             visiblePhotos.has(index) ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           } transition-all duration-700 ease-out`}
         >
           <div
-            className="relative overflow-hidden rounded cursor-pointer hover:scale-[1.02] transition-transform duration-300"
+            className="relative overflow-hidden rounded cursor-pointer hover:scale-[1.02] transition-transform duration-300 h-full"
             onClick={() => setLightboxIndex(index)}
           >
-            <Image
-              src={photo.url640}
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={photo.url1280}
               alt={`Photo ${index + 1}`}
-              width={photo.width}
-              height={photo.height}
               loading="lazy"
-              className="w-full h-auto"
+              className="w-full h-full object-cover"
             />
           </div>
         </div>
@@ -163,21 +152,13 @@ export default function MosaicGallery({
       {/* Footer */}
       <footer className="py-12 px-6 text-center text-gray-500 text-sm">
         <p className="mb-2">Photography by {photographer}</p>
-        <p className="mb-4">CX — BY INVITATION ONLY</p>
-        <a
-          href={`https://lightroom.adobe.com/shares/${lightroomShareId}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-gray-400 hover:text-white transition-colors underline"
-        >
-          View original gallery on Lightroom
-        </a>
+        <p>CX — BY INVITATION ONLY</p>
       </footer>
 
       {/* Lightbox */}
       {lightboxIndex !== null && (
         <div
-          className="fixed inset-0 bg-black bg-opacity-95 z-50 flex items-center justify-center p-4"
+          className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-4"
           onClick={() => setLightboxIndex(null)}
         >
           <button
@@ -189,7 +170,7 @@ export default function MosaicGallery({
           </button>
 
           <button
-            className="absolute left-4 text-white text-4xl hover:text-gray-400 transition-colors z-10"
+            className="absolute left-4 top-1/2 -translate-y-1/2 text-white text-5xl hover:text-gray-400 transition-colors z-10"
             onClick={(e) => {
               e.stopPropagation();
               setLightboxIndex((prev) =>
@@ -202,7 +183,7 @@ export default function MosaicGallery({
           </button>
 
           <button
-            className="absolute right-4 text-white text-4xl hover:text-gray-400 transition-colors z-10"
+            className="absolute right-4 top-1/2 -translate-y-1/2 text-white text-5xl hover:text-gray-400 transition-colors z-10"
             onClick={(e) => {
               e.stopPropagation();
               setLightboxIndex((prev) =>
@@ -215,15 +196,13 @@ export default function MosaicGallery({
           </button>
 
           <div className="relative max-w-7xl max-h-full" onClick={(e) => e.stopPropagation()}>
-            <Image
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
               src={photos[lightboxIndex].url2048}
               alt={`Photo ${lightboxIndex + 1}`}
-              width={photos[lightboxIndex].width}
-              height={photos[lightboxIndex].height}
               className="max-w-full max-h-[90vh] object-contain"
-              priority
             />
-            <div className="absolute bottom-4 left-4 bg-black bg-opacity-70 px-3 py-1 rounded text-sm">
+            <div className="absolute bottom-4 left-4 bg-black/70 px-3 py-1 rounded text-sm">
               {lightboxIndex + 1} / {photos.length}
             </div>
           </div>
@@ -234,24 +213,21 @@ export default function MosaicGallery({
         .gallery-grid {
           display: grid;
           grid-template-columns: 1fr;
-          gap: 1rem;
+          gap: 0.5rem;
         }
-
         @media (min-width: 768px) {
           .gallery-grid {
             grid-template-columns: repeat(2, 1fr);
-            gap: 1.5rem;
+            gap: 0.75rem;
           }
         }
-
         @media (min-width: 1024px) {
           .gallery-grid {
             grid-template-columns: repeat(3, 1fr);
-            gap: 2rem;
+            gap: 1rem;
           }
         }
-
-        .quote-card {
+        .font-serif {
           font-family: 'Cormorant Garamond', 'Playfair Display', serif;
         }
       `}</style>
