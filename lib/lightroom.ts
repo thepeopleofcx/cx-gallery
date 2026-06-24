@@ -21,7 +21,9 @@ function stripPrefix(text: string): string {
  */
 export async function fetchLightroomPhotos(shareId: string): Promise<LightroomPhoto[]> {
   const BASE = `https://lightroom.adobe.com/v2c/spaces/${shareId}`;
-  const CDN = `https://photos.adobe.io/v2/spaces/${shareId}/`;
+  // IMPORTANT: Use lightroom.adobe.com (not photos.adobe.io) — the photos.adobe.io
+  // CDN requires API key auth, but lightroom.adobe.com serves public share renditions freely
+  const CDN = `https://lightroom.adobe.com/v2c/spaces/${shareId}/`;
   const headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
   };
