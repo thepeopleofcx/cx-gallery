@@ -19,9 +19,6 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   title: 'CX Gallery',
   description: 'Beautiful photo galleries from CX events',
-  icons: {
-    icon: '/favicon.ico',
-  },
 };
 
 export default function RootLayout({

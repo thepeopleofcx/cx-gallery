@@ -1,7 +1,6 @@
-import fs from 'fs/promises';
-import path from 'path';
 import Link from 'next/link';
 import type { GalleryConfig } from '@/lib/types';
+import { coverUrl, listGallerySlugs, loadGalleryConfig } from '@/lib/galleries';
 
 interface GalleryPreview {
   slug: string;
@@ -9,22 +8,14 @@ interface GalleryPreview {
 }
 
 async function getGalleryPreviews(): Promise<GalleryPreview[]> {
-  const galleriesDir = path.join(process.cwd(), 'data/galleries');
-  const files = await fs.readdir(galleriesDir);
-
+  const slugs = await listGallerySlugs();
   const previews = await Promise.all(
-    files
-      .filter((file) => file.endsWith('.json'))
-      .map(async (file) => {
-        const slug = file.replace('.json', '');
-        const configPath = path.join(galleriesDir, file);
-        const configData = await fs.readFile(configPath, 'utf-8');
-        const config: GalleryConfig = JSON.parse(configData);
-        return { slug, config };
-      })
+    slugs.map(async (slug) => ({ slug, config: (await loadGalleryConfig(slug))! }))
   );
 
-  return previews;
+  // Newest event first
+  const time = (c: GalleryConfig) => new Date(c.isoDate ?? c.date).getTime() || 0;
+  return previews.filter((p) => p.config).sort((a, b) => time(b.config) - time(a.config));
 }
 
 export default async function HomePage() {
@@ -33,46 +24,38 @@ export default async function HomePage() {
   return (
     <div className="min-h-screen bg-black text-white">
       <header className="py-16 md:py-24 px-6 text-center">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-4">
-          CX GALLERY
+        <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl italic tracking-tight mb-4 text-white leading-tight">
+          A Look Behind the Curtain...
         </h1>
-        <p className="text-lg md:text-xl text-gray-400">
-          Moments captured, memories shared
+        <p className="text-sm md:text-base text-gray-400 tracking-widest uppercase">
+          Photos from CX Events
         </p>
       </header>
 
       <div className="px-4 md:px-8 lg:px-16 pb-20">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {galleries.map((gallery) => {
-            const coverPhoto = gallery.config.photos[0];
+            const cover = coverUrl(gallery.config);
             return (
-              <Link
-                key={gallery.slug}
-                href={`/gallery/${gallery.slug}`}
-                className="group block"
-              >
+              <Link key={gallery.slug} href={`/gallery/${gallery.slug}`} className="group block">
                 <div className="relative overflow-hidden rounded-lg aspect-[4/3] bg-[#111]">
-                  {coverPhoto && (
+                  {cover && (
                     /* eslint-disable-next-line @next/next/no-img-element */
                     <img
-                      src={coverPhoto.url1280}
+                      src={cover}
                       alt={gallery.config.title}
                       className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     />
                   )}
                   <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent opacity-80 group-hover:opacity-90 transition-opacity" />
                   <div className="absolute bottom-0 left-0 right-0 p-6">
-                    <h2 className="text-2xl md:text-3xl font-bold mb-2">
-                      {gallery.config.title}
-                    </h2>
+                    <h2 className="text-2xl md:text-3xl font-bold mb-2">{gallery.config.title}</h2>
                     {gallery.config.subtitle && (
                       <p className="text-sm md:text-base text-gray-300 mb-1">
                         {gallery.config.subtitle}
                       </p>
                     )}
-                    <p className="text-xs md:text-sm text-gray-400">
-                      {gallery.config.date}
-                    </p>
+                    <p className="text-xs md:text-sm text-gray-400">{gallery.config.date}</p>
                   </div>
                 </div>
               </Link>

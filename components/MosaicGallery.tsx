@@ -1,58 +1,102 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import type { GalleryPhoto, Quote } from '@/lib/types';
+import type { Credit, GalleryItem, GalleryVideo } from '@/lib/types';
 
 interface MosaicGalleryProps {
-  photos: GalleryPhoto[];
-  quotes: Quote[];
+  photos: GalleryItem[];
   title: string;
+  eventTitle?: string;
   subtitle?: string;
   date: string;
   photographer: string;
+  photographerUrl?: string;
+  videographer?: Credit;
+}
+
+function CreditLink({ name, url }: Credit) {
+  if (!url) return <>{name}</>;
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="underline hover:text-white transition-colors"
+    >
+      {name}
+    </a>
+  );
+}
+
+/** Muted inline loop that only plays while it is on screen. */
+function VideoTile({ video, label }: { video: GalleryVideo; label: string }) {
+  const ref = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const io = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          el.play().catch(() => {});
+        } else {
+          el.pause();
+        }
+      },
+      { rootMargin: '200px 0px', threshold: 0.01 }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+
+  return (
+    <>
+      <video
+        ref={ref}
+        src={video.loop}
+        poster={video.poster}
+        muted
+        loop
+        playsInline
+        preload="none"
+        aria-label={label}
+        className="absolute inset-0 w-full h-full object-cover"
+      />
+      <span
+        aria-hidden="true"
+        className="absolute bottom-3 right-3 flex items-center justify-center w-8 h-8 rounded-full bg-black/55 text-white/90 text-[11px] pl-[2px] backdrop-blur-sm"
+      >
+        ▶
+      </span>
+    </>
+  );
 }
 
 export default function MosaicGallery({
   photos,
-  quotes,
-  title,
-  subtitle,
+  eventTitle,
   date,
   photographer,
+  photographerUrl,
+  videographer,
 }: MosaicGalleryProps) {
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
-  const [visiblePhotos, setVisiblePhotos] = useState<Set<number>>(new Set());
-  const observerRef = useRef<IntersectionObserver | null>(null);
-
-  useEffect(() => {
-    observerRef.current = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            const index = parseInt(entry.target.getAttribute('data-index') || '0');
-            setVisiblePhotos((prev) => new Set(prev).add(index));
-          }
-        });
-      },
-      { threshold: 0.1 }
-    );
-    return () => observerRef.current?.disconnect();
-  }, []);
+  const items = photos;
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (lightboxIndex === null) return;
       if (e.key === 'ArrowLeft') {
-        setLightboxIndex((prev) => (prev === null || prev === 0 ? photos.length - 1 : prev - 1));
+        setLightboxIndex((prev) => (prev === null || prev === 0 ? items.length - 1 : prev - 1));
       } else if (e.key === 'ArrowRight') {
-        setLightboxIndex((prev) => (prev === null ? 0 : (prev + 1) % photos.length));
+        setLightboxIndex((prev) => (prev === null ? 0 : (prev + 1) % items.length));
       } else if (e.key === 'Escape') {
         setLightboxIndex(null);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [lightboxIndex, photos.length]);
+  }, [lightboxIndex, items.length]);
 
   // Lock body scroll when lightbox is open
   useEffect(() => {
@@ -61,63 +105,55 @@ export default function MosaicGallery({
     } else {
       document.body.style.overflow = '';
     }
-    return () => { document.body.style.overflow = ''; };
+    return () => {
+      document.body.style.overflow = '';
+    };
   }, [lightboxIndex]);
 
-  // Determine featured sizing: every 7th photo gets a larger span
-  const isFeature = (index: number) => index % 7 === 0;
-
   const renderGalleryItems = () => {
-    const items: React.ReactElement[] = [];
-    let quoteIndex = 0;
+    const out: React.ReactElement[] = [];
+    // Featured sizing counts photos only, so galleries without video keep
+    // exactly the original rhythm (every 7th photo is large).
+    let photoCount = 0;
 
-    photos.forEach((photo, index) => {
-      // Insert a quote roughly every 25-30 images
-      if (index > 0 && index % 28 === 0 && quoteIndex < quotes.length) {
-        const quote = quotes[quoteIndex];
-        items.push(
+    items.forEach((item, index) => {
+      const delay = { animationDelay: `${Math.min(index * 30, 300)}ms` };
+
+      if (item.type === 'video') {
+        out.push(
           <div
-            key={`quote-${quoteIndex}`}
-            className="col-span-full bg-[#111] rounded-lg p-8 md:p-12 my-4"
+            key={item.id}
+            className="col-span-1 animate-fadeIn"
+            style={delay}
           >
-            <blockquote className="text-2xl md:text-3xl lg:text-4xl text-[#e8e8e8] italic font-serif text-center leading-relaxed">
-              &ldquo;{quote.text}&rdquo;
-            </blockquote>
-            {quote.author && (
-              <p className="text-sm md:text-base text-gray-400 text-center mt-4">
-                — {quote.author}
-              </p>
-            )}
+            <div
+              className="relative overflow-hidden rounded cursor-pointer hover:scale-[1.02] transition-transform duration-300 h-full w-full aspect-[9/16] max-h-[85vh] md:aspect-[4/5] md:max-h-none bg-[#0a0a0a]"
+              onClick={() => setLightboxIndex(index)}
+            >
+              <VideoTile video={item} label={`Video ${index + 1}`} />
+            </div>
           </div>
         );
-        quoteIndex++;
+        return;
       }
 
-      const featured = isFeature(index);
+      const featured = photoCount % 7 === 0;
+      photoCount++;
       const spanClass = featured ? 'col-span-1 md:col-span-2 row-span-2' : 'col-span-1';
 
-      items.push(
-        <div
-          key={photo.id}
-          data-index={index}
-          ref={(el) => {
-            if (el && observerRef.current) {
-              observerRef.current.observe(el);
-            }
-          }}
-          className={`${spanClass} ${
-            visiblePhotos.has(index) ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
-          } transition-all duration-700 ease-out`}
-        >
+      out.push(
+        <div key={item.id} className={`${spanClass} animate-fadeIn`} style={delay}>
           <div
             className="relative overflow-hidden rounded cursor-pointer hover:scale-[1.02] transition-transform duration-300 h-full"
             onClick={() => setLightboxIndex(index)}
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={photo.url1280}
+              src={item.url1280}
               alt={`Photo ${index + 1}`}
               loading="lazy"
+              width={item.width}
+              height={item.height}
               className="w-full h-full object-cover"
             />
           </div>
@@ -125,38 +161,69 @@ export default function MosaicGallery({
       );
     });
 
-    return items;
+    return out;
   };
+
+  const current = lightboxIndex !== null ? items[lightboxIndex] : null;
 
   return (
     <div className="min-h-screen bg-black text-white">
       {/* Header */}
-      <header className="py-12 md:py-20 px-6 text-center">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-2">
-          {title}
-        </h1>
-        {subtitle && (
-          <p className="text-xl md:text-2xl text-gray-400 mb-4">{subtitle}</p>
+      <header className="py-16 md:py-28 px-6 text-center">
+        {eventTitle && (
+          <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl italic tracking-tight mb-8 text-white leading-tight">
+            {eventTitle}
+          </h1>
         )}
-        <p className="text-sm md:text-base text-gray-500">{date}</p>
-        <p className="text-xs md:text-sm text-gray-600 mt-2">
-          Photography by {photographer}
-        </p>
+        <div className="text-sm md:text-base text-gray-400 tracking-widest uppercase">
+          <p>{date}</p>
+          <p className="mt-2">
+            Photography by <CreditLink name={photographer} url={photographerUrl} />
+          </p>
+          {videographer && (
+            <p className="mt-2">
+              Film by <CreditLink {...videographer} />
+            </p>
+          )}
+        </div>
+        <hr className="mt-10 mb-6 border-t border-gray-700 max-w-md mx-auto" />
+        <div className="text-sm text-gray-500 leading-relaxed">
+          <p>This event was presented by CX.</p>
+          <p className="mt-3">
+            <a
+              href="https://app.hello.cx/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
+              Come join our next one »
+            </a>
+          </p>
+          <p className="mt-2">
+            <a
+              href="https://www.instagram.com/thepeopleofcx"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
+              Find us on Instagram »
+            </a>
+          </p>
+        </div>
       </header>
 
       {/* Gallery Grid */}
-      <div className="gallery-grid px-4 md:px-8 lg:px-12 pb-20">
-        {renderGalleryItems()}
-      </div>
+      <div className="gallery-grid px-4 md:px-8 lg:px-12 pb-20">{renderGalleryItems()}</div>
 
       {/* Footer */}
       <footer className="py-12 px-6 text-center text-gray-500 text-sm">
         <p className="mb-2">Photography by {photographer}</p>
+        {videographer && <p className="mb-2">Film by {videographer.name}</p>}
         <p>CX — BY INVITATION ONLY</p>
       </footer>
 
       {/* Lightbox */}
-      {lightboxIndex !== null && (
+      {current && lightboxIndex !== null && (
         <div
           className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-4"
           onClick={() => setLightboxIndex(null)}
@@ -173,11 +240,9 @@ export default function MosaicGallery({
             className="absolute left-4 top-1/2 -translate-y-1/2 text-white text-5xl hover:text-gray-400 transition-colors z-10"
             onClick={(e) => {
               e.stopPropagation();
-              setLightboxIndex((prev) =>
-                prev === null || prev === 0 ? photos.length - 1 : prev - 1
-              );
+              setLightboxIndex((prev) => (prev === null || prev === 0 ? items.length - 1 : prev - 1));
             }}
-            aria-label="Previous photo"
+            aria-label="Previous"
           >
             ‹
           </button>
@@ -186,24 +251,36 @@ export default function MosaicGallery({
             className="absolute right-4 top-1/2 -translate-y-1/2 text-white text-5xl hover:text-gray-400 transition-colors z-10"
             onClick={(e) => {
               e.stopPropagation();
-              setLightboxIndex((prev) =>
-                prev === null ? 0 : (prev + 1) % photos.length
-              );
+              setLightboxIndex((prev) => (prev === null ? 0 : (prev + 1) % items.length));
             }}
-            aria-label="Next photo"
+            aria-label="Next"
           >
             ›
           </button>
 
           <div className="relative max-w-7xl max-h-full" onClick={(e) => e.stopPropagation()}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={photos[lightboxIndex].url2048}
-              alt={`Photo ${lightboxIndex + 1}`}
-              className="max-w-full max-h-[90vh] object-contain"
-            />
-            <div className="absolute bottom-4 left-4 bg-black/70 px-3 py-1 rounded text-sm">
-              {lightboxIndex + 1} / {photos.length}
+            {current.type === 'video' ? (
+              <video
+                key={current.id}
+                src={current.full}
+                poster={current.poster}
+                controls
+                autoPlay
+                playsInline
+                className="max-w-full max-h-[90vh] object-contain"
+              />
+            ) : (
+              /* eslint-disable-next-line @next/next/no-img-element */
+              <img
+                src={current.url2048}
+                alt={`Photo ${lightboxIndex + 1}`}
+                className="max-w-full max-h-[90vh] object-contain"
+              />
+            )}
+            <div
+              className={`absolute ${current.type === 'video' ? 'top-4' : 'bottom-4'} left-4 bg-black/70 px-3 py-1 rounded text-sm pointer-events-none`}
+            >
+              {lightboxIndex + 1} / {items.length}
             </div>
           </div>
         </div>
@@ -228,7 +305,20 @@ export default function MosaicGallery({
           }
         }
         .font-serif {
-          font-family: 'Cormorant Garamond', 'Playfair Display', serif;
+          font-family: var(--font-cormorant), 'Cormorant Garamond', serif;
+        }
+        @keyframes fadeIn {
+          from {
+            opacity: 0;
+            transform: translateY(8px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+        .animate-fadeIn {
+          animation: fadeIn 0.6s ease-out both;
         }
       `}</style>
     </div>
