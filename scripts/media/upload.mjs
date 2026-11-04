@@ -11,7 +11,7 @@ const urlsPath = path.join(root, 'urls.json');
 const urls = fs.existsSync(urlsPath) ? JSON.parse(fs.readFileSync(urlsPath, 'utf8')) : {};
 
 const files = [];
-for (const sub of ['photos', 'videos']) {
+for (const sub of fs.readdirSync(root).filter((d) => /^(photos|videos)/.test(d) && fs.statSync(path.join(root, d)).isDirectory())) {
   if (only && only !== sub) continue;
   for (const f of fs.readdirSync(path.join(root, sub)).sort()) {
     if (/\.(jpg|mp4)$/.test(f)) files.push(`${sub}/${f}`);
