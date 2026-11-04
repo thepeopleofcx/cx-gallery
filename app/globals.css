@@ -1,9 +1,6 @@
 @import "tailwindcss";
 
-:root {
-  --font-inter: 'Inter', sans-serif;
-  --font-cormorant: 'Cormorant Garamond', serif;
-}
+/* --font-inter / --font-cormorant are set by next/font/local in app/layout.tsx */
 
 * {
   box-sizing: border-box;
