@@ -154,7 +154,7 @@ export default function MosaicGallery({
               loading="lazy"
               width={item.width}
               height={item.height}
-              className="w-full h-full object-cover"
+              className="w-full h-full max-h-[80vh] min-h-full object-cover"
             />
           </div>
         </div>
@@ -213,7 +213,9 @@ export default function MosaicGallery({
       </header>
 
       {/* Gallery Grid */}
-      <div className="gallery-grid px-4 md:px-8 lg:px-12 pb-20">{renderGalleryItems()}</div>
+      <div className="px-6 md:px-12 pb-20">
+        <div className="gallery-grid mx-auto max-w-[1000px]">{renderGalleryItems()}</div>
+      </div>
 
       {/* Footer */}
       <footer className="py-12 px-6 text-center text-gray-500 text-sm">
@@ -289,18 +291,18 @@ export default function MosaicGallery({
       <style jsx>{`
         .gallery-grid {
           display: grid;
-          grid-template-columns: 1fr;
+          grid-template-columns: minmax(0, 1fr);
           gap: 0.5rem;
         }
         @media (min-width: 768px) {
           .gallery-grid {
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(2, minmax(0, 1fr));
             gap: 0.75rem;
           }
         }
         @media (min-width: 1024px) {
           .gallery-grid {
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(3, minmax(0, 1fr));
             gap: 1rem;
           }
         }
