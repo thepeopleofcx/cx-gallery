@@ -5,1199 +5,9 @@
   "date": "October 30, 2026",
   "isoDate": "2026-10-30",
   "photographer": "Off Brand Project × Four13 Photo",
-  "coverIndex": 114,
+  "coverIndex": 62,
   "source": "vercel-blob",
   "photos": [
-    {
-      "type": "photo",
-      "id": "oct30-p001",
-      "index": 1,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/001-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/001-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/001-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p002",
-      "index": 2,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/002-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/002-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/002-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p003",
-      "index": 3,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/003-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/003-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/003-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p004",
-      "index": 4,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/004-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/004-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/004-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p005",
-      "index": 5,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/005-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/005-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/005-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p006",
-      "index": 6,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/006-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/006-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/006-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p007",
-      "index": 7,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/007-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/007-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/007-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p008",
-      "index": 8,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/008-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/008-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/008-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p009",
-      "index": 9,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/009-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/009-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/009-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v01",
-      "index": 1,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v01-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v01-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v01-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p010",
-      "index": 10,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/010-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/010-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/010-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p011",
-      "index": 11,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/011-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/011-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/011-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p012",
-      "index": 12,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/012-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/012-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/012-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p013",
-      "index": 13,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/013-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/013-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/013-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p014",
-      "index": 14,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/014-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/014-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/014-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p015",
-      "index": 15,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/015-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/015-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/015-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p016",
-      "index": 16,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/016-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/016-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/016-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p017",
-      "index": 17,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/017-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/017-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/017-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p018",
-      "index": 18,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/018-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/018-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/018-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p019",
-      "index": 19,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/019-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/019-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/019-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p020",
-      "index": 20,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/020-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/020-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/020-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p021",
-      "index": 21,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/021-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/021-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/021-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p022",
-      "index": 22,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/022-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/022-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/022-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p023",
-      "index": 23,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/023-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/023-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/023-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p024",
-      "index": 24,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/024-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/024-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/024-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p025",
-      "index": 25,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/025-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/025-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/025-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p026",
-      "index": 26,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/026-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/026-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/026-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p027",
-      "index": 27,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/027-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/027-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/027-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v02",
-      "index": 2,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v02-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v02-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v02-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p028",
-      "index": 28,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/028-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/028-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/028-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p029",
-      "index": 29,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/029-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/029-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/029-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p030",
-      "index": 30,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/030-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/030-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/030-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p031",
-      "index": 31,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/031-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/031-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/031-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p032",
-      "index": 32,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/032-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/032-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/032-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p033",
-      "index": 33,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/033-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/033-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/033-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p034",
-      "index": 34,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/034-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/034-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/034-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p035",
-      "index": 35,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/035-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/035-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/035-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p036",
-      "index": 36,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/036-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/036-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/036-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p037",
-      "index": 37,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/037-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/037-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/037-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p038",
-      "index": 38,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/038-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/038-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/038-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p039",
-      "index": 39,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/039-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/039-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/039-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p040",
-      "index": 40,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/040-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/040-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/040-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p041",
-      "index": 41,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/041-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/041-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/041-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p042",
-      "index": 42,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/042-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/042-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/042-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p043",
-      "index": 43,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/043-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/043-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/043-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p044",
-      "index": 44,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/044-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/044-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/044-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p045",
-      "index": 45,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/045-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/045-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/045-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v03",
-      "index": 3,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v03-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v03-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v03-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p046",
-      "index": 46,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/046-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/046-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/046-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p047",
-      "index": 47,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/047-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/047-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/047-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p048",
-      "index": 48,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/048-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/048-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/048-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p049",
-      "index": 49,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/049-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/049-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/049-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p050",
-      "index": 50,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/050-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/050-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/050-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p051",
-      "index": 51,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/051-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/051-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/051-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p052",
-      "index": 52,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/052-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/052-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/052-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p053",
-      "index": 53,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/053-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/053-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/053-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p054",
-      "index": 54,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/054-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/054-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/054-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p055",
-      "index": 55,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/055-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/055-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/055-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p056",
-      "index": 56,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/056-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/056-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/056-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p057",
-      "index": 57,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/057-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/057-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/057-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p058",
-      "index": 58,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/058-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/058-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/058-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p059",
-      "index": 59,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/059-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/059-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/059-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p060",
-      "index": 60,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/060-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/060-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/060-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p061",
-      "index": 61,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/061-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/061-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/061-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p062",
-      "index": 62,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/062-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/062-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/062-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p063",
-      "index": 63,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/063-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/063-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/063-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v04",
-      "index": 4,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v04-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v04-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v04-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p064",
-      "index": 64,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/064-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/064-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/064-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p065",
-      "index": 65,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/065-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/065-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/065-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p066",
-      "index": 66,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/066-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/066-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/066-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p067",
-      "index": 67,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/067-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/067-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/067-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p068",
-      "index": 68,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/068-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/068-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/068-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p069",
-      "index": 69,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/069-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/069-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/069-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p070",
-      "index": 70,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/070-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/070-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/070-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p071",
-      "index": 71,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/071-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/071-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/071-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p072",
-      "index": 72,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/072-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/072-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/072-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p073",
-      "index": 73,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/073-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/073-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/073-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p074",
-      "index": 74,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/074-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/074-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/074-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p075",
-      "index": 75,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/075-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/075-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/075-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p076",
-      "index": 76,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/076-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/076-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/076-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p077",
-      "index": 77,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/077-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/077-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/077-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p078",
-      "index": 78,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/078-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/078-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/078-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p079",
-      "index": 79,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/079-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/079-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/079-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p080",
-      "index": 80,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/080-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/080-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/080-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p081",
-      "index": 81,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/081-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/081-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/081-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v05",
-      "index": 5,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v05-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v05-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v05-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p082",
-      "index": 82,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/082-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/082-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/082-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p083",
-      "index": 83,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/083-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/083-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/083-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p084",
-      "index": 84,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/084-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/084-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/084-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p085",
-      "index": 85,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/085-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/085-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/085-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p086",
-      "index": 86,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/086-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/086-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/086-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p087",
-      "index": 87,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/087-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/087-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/087-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p088",
-      "index": 88,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/088-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/088-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/088-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p089",
-      "index": 89,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/089-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/089-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/089-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p090",
-      "index": 90,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/090-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/090-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/090-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p091",
-      "index": 91,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/091-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/091-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/091-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p092",
-      "index": 92,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/092-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/092-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/092-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p093",
-      "index": 93,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/093-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/093-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/093-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p094",
-      "index": 94,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/094-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/094-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/094-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p095",
-      "index": 95,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/095-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/095-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/095-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p096",
-      "index": 96,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/096-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/096-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/096-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p097",
-      "index": 97,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/097-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/097-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/097-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p098",
-      "index": 98,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/098-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/098-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/098-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p099",
-      "index": 99,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/099-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/099-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/099-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v06",
-      "index": 6,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v06-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v06-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v06-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p100",
-      "index": 100,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/100-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/100-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/100-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p101",
-      "index": 101,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/101-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/101-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/101-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p102",
-      "index": 102,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/102-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/102-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/102-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p103",
-      "index": 103,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/103-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/103-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/103-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p104",
-      "index": 104,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/104-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/104-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/104-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p105",
-      "index": 105,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/105-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/105-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/105-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p106",
-      "index": 106,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/106-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/106-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/106-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p107",
-      "index": 107,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/107-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/107-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/107-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p108",
-      "index": 108,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/108-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/108-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/108-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p109",
-      "index": 109,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/109-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/109-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/109-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p110",
-      "index": 110,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/110-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/110-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/110-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p111",
-      "index": 111,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/111-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/111-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/111-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p112",
-      "index": 112,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/112-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/112-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/112-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p113",
-      "index": 113,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/113-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/113-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/113-640.jpg"
-    },
     {
       "type": "photo",
       "id": "oct30-p114",
@@ -1207,1006 +17,6 @@
       "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/114-2048.jpg",
       "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/114-1280.jpg",
       "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/114-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p115",
-      "index": 115,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/115-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/115-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/115-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p116",
-      "index": 116,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/116-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/116-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/116-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p117",
-      "index": 117,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/117-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/117-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/117-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v07",
-      "index": 7,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v07-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v07-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v07-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p118",
-      "index": 118,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/118-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/118-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/118-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p119",
-      "index": 119,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/119-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/119-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/119-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p120",
-      "index": 120,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/120-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/120-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/120-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p121",
-      "index": 121,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/121-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/121-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/121-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p122",
-      "index": 122,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/122-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/122-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/122-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p123",
-      "index": 123,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/123-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/123-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/123-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p124",
-      "index": 124,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/124-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/124-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/124-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p125",
-      "index": 125,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/125-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/125-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/125-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p126",
-      "index": 126,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/126-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/126-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/126-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p127",
-      "index": 127,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/127-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/127-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/127-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p128",
-      "index": 128,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/128-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/128-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/128-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p129",
-      "index": 129,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/129-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/129-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/129-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p130",
-      "index": 130,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/130-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/130-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/130-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p131",
-      "index": 131,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/131-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/131-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/131-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p132",
-      "index": 132,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/132-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/132-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/132-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p133",
-      "index": 133,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/133-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/133-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/133-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p134",
-      "index": 134,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/134-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/134-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/134-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p135",
-      "index": 135,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/135-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/135-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/135-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v08",
-      "index": 8,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v08-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v08-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v08-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p136",
-      "index": 136,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/136-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/136-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/136-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p137",
-      "index": 137,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/137-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/137-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/137-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p138",
-      "index": 138,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/138-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/138-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/138-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p139",
-      "index": 139,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/139-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/139-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/139-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p140",
-      "index": 140,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/140-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/140-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/140-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p141",
-      "index": 141,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/141-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/141-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/141-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p142",
-      "index": 142,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/142-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/142-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/142-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p143",
-      "index": 143,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/143-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/143-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/143-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p144",
-      "index": 144,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/144-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/144-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/144-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p145",
-      "index": 145,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/145-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/145-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/145-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p146",
-      "index": 146,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/146-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/146-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/146-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p147",
-      "index": 147,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/147-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/147-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/147-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p148",
-      "index": 148,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/148-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/148-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/148-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p149",
-      "index": 149,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/149-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/149-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/149-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p150",
-      "index": 150,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/150-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/150-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/150-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p151",
-      "index": 151,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/151-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/151-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/151-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p152",
-      "index": 152,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/152-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/152-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/152-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p153",
-      "index": 153,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/153-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/153-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/153-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v09",
-      "index": 9,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v09-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v09-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v09-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p154",
-      "index": 154,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/154-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/154-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/154-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p155",
-      "index": 155,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/155-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/155-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/155-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p156",
-      "index": 156,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/156-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/156-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/156-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p157",
-      "index": 157,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/157-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/157-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/157-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p158",
-      "index": 158,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/158-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/158-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/158-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p159",
-      "index": 159,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/159-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/159-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/159-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p160",
-      "index": 160,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/160-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/160-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/160-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p161",
-      "index": 161,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/161-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/161-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/161-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p162",
-      "index": 162,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/162-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/162-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/162-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p163",
-      "index": 163,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/163-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/163-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/163-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p164",
-      "index": 164,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/164-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/164-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/164-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p165",
-      "index": 165,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/165-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/165-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/165-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p166",
-      "index": 166,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/166-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/166-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/166-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p167",
-      "index": 167,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/167-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/167-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/167-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p168",
-      "index": 168,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/168-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/168-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/168-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p169",
-      "index": 169,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/169-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/169-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/169-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p170",
-      "index": 170,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/170-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/170-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/170-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p171",
-      "index": 171,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/171-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/171-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/171-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v10",
-      "index": 10,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v10-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v10-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v10-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p172",
-      "index": 172,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/172-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/172-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/172-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p173",
-      "index": 173,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/173-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/173-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/173-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p174",
-      "index": 174,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/174-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/174-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/174-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p175",
-      "index": 175,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/175-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/175-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/175-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p176",
-      "index": 176,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/176-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/176-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/176-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p177",
-      "index": 177,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/177-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/177-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/177-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p178",
-      "index": 178,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/178-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/178-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/178-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p179",
-      "index": 179,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/179-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/179-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/179-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p180",
-      "index": 180,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/180-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/180-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/180-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p181",
-      "index": 181,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/181-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/181-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/181-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p182",
-      "index": 182,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/182-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/182-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/182-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p183",
-      "index": 183,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/183-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/183-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/183-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p184",
-      "index": 184,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/184-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/184-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/184-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p185",
-      "index": 185,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/185-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/185-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/185-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p186",
-      "index": 186,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/186-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/186-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/186-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p187",
-      "index": 187,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/187-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/187-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/187-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p188",
-      "index": 188,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/188-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/188-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/188-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p189",
-      "index": 189,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/189-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/189-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/189-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v11",
-      "index": 11,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v11-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v11-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v11-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p190",
-      "index": 190,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/190-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/190-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/190-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p191",
-      "index": 191,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/191-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/191-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/191-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p192",
-      "index": 192,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/192-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/192-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/192-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p193",
-      "index": 193,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/193-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/193-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/193-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p194",
-      "index": 194,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/194-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/194-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/194-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p195",
-      "index": 195,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/195-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/195-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/195-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p196",
-      "index": 196,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/196-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/196-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/196-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p197",
-      "index": 197,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/197-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/197-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/197-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p198",
-      "index": 198,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/198-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/198-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/198-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p199",
-      "index": 199,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/199-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/199-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/199-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p200",
-      "index": 200,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/200-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/200-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/200-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p201",
-      "index": 201,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/201-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/201-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/201-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p202",
-      "index": 202,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/202-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/202-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/202-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p203",
-      "index": 203,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/203-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/203-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/203-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p204",
-      "index": 204,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/204-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/204-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/204-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p205",
-      "index": 205,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/205-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/205-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/205-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p206",
-      "index": 206,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/206-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/206-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/206-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p207",
-      "index": 207,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/207-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/207-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/207-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v12",
-      "index": 12,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v12-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v12-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v12-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p208",
-      "index": 208,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/208-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/208-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/208-640.jpg"
     },
     {
       "type": "photo",
@@ -2220,63 +30,43 @@
     },
     {
       "type": "photo",
-      "id": "oct30-p210",
-      "index": 210,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/210-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/210-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/210-640.jpg"
+      "id": "oct30-p124",
+      "index": 124,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/124-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/124-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/124-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s069",
+      "index": 69,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s069-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s069-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s069-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p211",
-      "index": 211,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/211-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/211-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/211-640.jpg"
+      "id": "oct30-p118",
+      "index": 118,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/118-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/118-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/118-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p212",
-      "index": 212,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/212-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/212-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/212-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p213",
-      "index": 213,
+      "id": "oct30-p081",
+      "index": 81,
       "width": 2048,
       "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/213-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/213-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/213-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p214",
-      "index": 214,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/214-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/214-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/214-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p215",
-      "index": 215,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/215-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/215-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/215-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/081-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/081-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/081-640.jpg"
     },
     {
       "type": "photo",
@@ -2289,44 +79,54 @@
       "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/216-640.jpg"
     },
     {
-      "type": "photo",
-      "id": "oct30-p217",
-      "index": 217,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/217-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/217-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/217-640.jpg"
+      "type": "video",
+      "id": "oct30-s089",
+      "index": 89,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s089-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s089-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s089-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p218",
-      "index": 218,
+      "id": "oct30-p006",
+      "index": 6,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/006-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/006-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/006-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p102",
+      "index": 102,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/102-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/102-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/102-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p163",
+      "index": 163,
       "width": 2048,
       "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/218-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/218-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/218-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/163-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/163-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/163-640.jpg"
     },
     {
-      "type": "photo",
-      "id": "oct30-p219",
-      "index": 219,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/219-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/219-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/219-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p220",
-      "index": 220,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/220-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/220-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/220-640.jpg"
+      "type": "video",
+      "id": "oct30-s036",
+      "index": 36,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s036-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s036-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s036-poster.jpg"
     },
     {
       "type": "photo",
@@ -2340,163 +140,53 @@
     },
     {
       "type": "photo",
-      "id": "oct30-p222",
-      "index": 222,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/222-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/222-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/222-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p223",
-      "index": 223,
+      "id": "oct30-p007",
+      "index": 7,
       "width": 1638,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/223-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/223-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/223-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/007-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/007-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/007-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p224",
-      "index": 224,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/224-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/224-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/224-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p225",
-      "index": 225,
+      "id": "oct30-p039",
+      "index": 39,
       "width": 1365,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/225-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/225-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/225-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/039-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/039-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/039-640.jpg"
     },
     {
       "type": "video",
-      "id": "oct30-v13",
-      "index": 13,
+      "id": "oct30-s066",
+      "index": 66,
       "width": 1080,
       "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v13-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v13-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v13-poster.jpg"
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s066-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s066-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s066-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p226",
-      "index": 226,
+      "id": "oct30-p167",
+      "index": 167,
       "width": 2048,
       "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/226-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/226-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/226-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/167-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/167-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/167-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p227",
-      "index": 227,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/227-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/227-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/227-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p228",
-      "index": 228,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/228-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/228-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/228-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p229",
-      "index": 229,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/229-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/229-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/229-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p230",
-      "index": 230,
+      "id": "oct30-p015",
+      "index": 15,
       "width": 2048,
       "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/230-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/230-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/230-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p231",
-      "index": 231,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/231-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/231-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/231-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p232",
-      "index": 232,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/232-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/232-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/232-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p233",
-      "index": 233,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/233-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/233-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/233-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p234",
-      "index": 234,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/234-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/234-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/234-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p235",
-      "index": 235,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/235-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/235-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/235-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p236",
-      "index": 236,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/236-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/236-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/236-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/015-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/015-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/015-640.jpg"
     },
     {
       "type": "photo",
@@ -2510,383 +200,33 @@
     },
     {
       "type": "photo",
-      "id": "oct30-p238",
-      "index": 238,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/238-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/238-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/238-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p239",
-      "index": 239,
+      "id": "oct30-p135",
+      "index": 135,
       "width": 2048,
       "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/239-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/239-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/239-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p240",
-      "index": 240,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/240-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/240-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/240-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p241",
-      "index": 241,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/241-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/241-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/241-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p242",
-      "index": 242,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/242-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/242-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/242-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p243",
-      "index": 243,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/243-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/243-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/243-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/135-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/135-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/135-640.jpg"
     },
     {
       "type": "video",
-      "id": "oct30-v14",
-      "index": 14,
+      "id": "oct30-s037",
+      "index": 37,
       "width": 1080,
       "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v14-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v14-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v14-poster.jpg"
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s037-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s037-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s037-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p244",
-      "index": 244,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/244-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/244-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/244-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p245",
-      "index": 245,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/245-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/245-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/245-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p246",
-      "index": 246,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/246-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/246-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/246-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p247",
-      "index": 247,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/247-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/247-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/247-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p248",
-      "index": 248,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/248-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/248-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/248-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p249",
-      "index": 249,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/249-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/249-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/249-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p250",
-      "index": 250,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/250-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/250-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/250-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p251",
-      "index": 251,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/251-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/251-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/251-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p252",
-      "index": 252,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/252-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/252-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/252-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p253",
-      "index": 253,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/253-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/253-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/253-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p254",
-      "index": 254,
+      "id": "oct30-p206",
+      "index": 206,
       "width": 1365,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/254-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/254-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/254-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p255",
-      "index": 255,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/255-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/255-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/255-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p256",
-      "index": 256,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/256-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/256-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/256-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p257",
-      "index": 257,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/257-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/257-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/257-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p258",
-      "index": 258,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/258-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/258-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/258-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p259",
-      "index": 259,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/259-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/259-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/259-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p260",
-      "index": 260,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/260-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/260-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/260-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p261",
-      "index": 261,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/261-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/261-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/261-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v15",
-      "index": 15,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v15-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v15-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v15-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p262",
-      "index": 262,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/262-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/262-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/262-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p263",
-      "index": 263,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/263-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/263-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/263-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p264",
-      "index": 264,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/264-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/264-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/264-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p265",
-      "index": 265,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/265-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/265-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/265-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p266",
-      "index": 266,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/266-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/266-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/266-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p267",
-      "index": 267,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/267-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/267-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/267-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p268",
-      "index": 268,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/268-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/268-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/268-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p269",
-      "index": 269,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/269-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/269-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/269-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p270",
-      "index": 270,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/270-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/270-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/270-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p271",
-      "index": 271,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/271-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/271-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/271-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p272",
-      "index": 272,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/272-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/272-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/272-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p273",
-      "index": 273,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/273-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/273-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/273-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/206-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/206-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/206-640.jpg"
     },
     {
       "type": "photo",
@@ -2900,503 +240,433 @@
     },
     {
       "type": "photo",
-      "id": "oct30-p275",
-      "index": 275,
+      "id": "oct30-p217",
+      "index": 217,
       "width": 2048,
       "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/275-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/275-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/275-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p276",
-      "index": 276,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/276-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/276-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/276-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p277",
-      "index": 277,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/277-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/277-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/277-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p278",
-      "index": 278,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/278-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/278-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/278-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p279",
-      "index": 279,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/279-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/279-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/279-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/217-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/217-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/217-640.jpg"
     },
     {
       "type": "video",
-      "id": "oct30-v16",
-      "index": 16,
-      "width": 1080,
-      "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v16-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v16-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v16-poster.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p280",
-      "index": 280,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/280-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/280-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/280-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p281",
-      "index": 281,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/281-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/281-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/281-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p282",
-      "index": 282,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/282-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/282-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/282-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p283",
-      "index": 283,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/283-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/283-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/283-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p284",
-      "index": 284,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/284-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/284-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/284-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p285",
-      "index": 285,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/285-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/285-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/285-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p286",
-      "index": 286,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/286-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/286-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/286-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p287",
-      "index": 287,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/287-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/287-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/287-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p288",
-      "index": 288,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/288-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/288-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/288-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p289",
-      "index": 289,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/289-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/289-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/289-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p290",
-      "index": 290,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/290-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/290-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/290-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p291",
-      "index": 291,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/291-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/291-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/291-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p292",
-      "index": 292,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/292-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/292-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/292-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p293",
-      "index": 293,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/293-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/293-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/293-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p294",
-      "index": 294,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/294-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/294-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/294-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p295",
-      "index": 295,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/295-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/295-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/295-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p296",
-      "index": 296,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/296-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/296-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/296-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p297",
-      "index": 297,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/297-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/297-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/297-640.jpg"
-    },
-    {
-      "type": "video",
-      "id": "oct30-v17",
+      "id": "oct30-s017",
       "index": 17,
       "width": 1080,
       "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v17-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v17-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v17-poster.jpg"
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s017-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s017-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s017-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p298",
-      "index": 298,
-      "width": 1638,
+      "id": "oct30-p152",
+      "index": 152,
+      "width": 1365,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/298-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/298-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/298-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/152-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/152-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/152-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p299",
-      "index": 299,
+      "id": "oct30-p226",
+      "index": 226,
       "width": 2048,
       "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/299-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/299-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/299-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/226-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/226-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/226-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p300",
-      "index": 300,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/300-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/300-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/300-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p301",
-      "index": 301,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/301-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/301-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/301-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p302",
-      "index": 302,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/302-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/302-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/302-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p303",
-      "index": 303,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/303-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/303-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/303-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p304",
-      "index": 304,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/304-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/304-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/304-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p305",
-      "index": 305,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/305-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/305-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/305-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p306",
-      "index": 306,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/306-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/306-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/306-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p307",
-      "index": 307,
-      "width": 2048,
-      "height": 1638,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/307-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/307-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/307-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p308",
-      "index": 308,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/308-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/308-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/308-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p309",
-      "index": 309,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/309-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/309-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/309-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p310",
-      "index": 310,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/310-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/310-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/310-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p311",
-      "index": 311,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/311-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/311-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/311-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p312",
-      "index": 312,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/312-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/312-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/312-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p313",
-      "index": 313,
-      "width": 2048,
-      "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/313-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/313-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/313-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p314",
-      "index": 314,
-      "width": 1638,
+      "id": "oct30-p194",
+      "index": 194,
+      "width": 1365,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/314-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/314-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/314-640.jpg"
-    },
-    {
-      "type": "photo",
-      "id": "oct30-p315",
-      "index": 315,
-      "width": 1638,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/315-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/315-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/315-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/194-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/194-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/194-640.jpg"
     },
     {
       "type": "video",
-      "id": "oct30-v18",
-      "index": 18,
+      "id": "oct30-s088",
+      "index": 88,
       "width": 1080,
       "height": 1920,
-      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v18-loop.mp4",
-      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v18-full.mp4",
-      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos/v18-poster.jpg"
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s088-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s088-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s088-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p316",
-      "index": 316,
+      "id": "oct30-p027",
+      "index": 27,
+      "width": 1638,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/027-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/027-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/027-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p158",
+      "index": 158,
       "width": 1365,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/316-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/316-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/316-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/158-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/158-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/158-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p317",
-      "index": 317,
+      "id": "oct30-p105",
+      "index": 105,
       "width": 2048,
       "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/317-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/317-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/317-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/105-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/105-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/105-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s045",
+      "index": 45,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s045-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s045-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s045-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p318",
-      "index": 318,
+      "id": "oct30-p157",
+      "index": 157,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/157-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/157-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/157-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p223",
+      "index": 223,
+      "width": 1638,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/223-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/223-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/223-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p218",
+      "index": 218,
+      "width": 2048,
+      "height": 1638,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/218-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/218-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/218-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s092",
+      "index": 92,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s092-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s092-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s092-poster.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p058",
+      "index": 58,
       "width": 2048,
       "height": 1365,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/318-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/318-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/318-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/058-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/058-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/058-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p319",
-      "index": 319,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/319-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/319-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/319-640.jpg"
+      "id": "oct30-p189",
+      "index": 189,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/189-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/189-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/189-640.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p320",
-      "index": 320,
-      "width": 1365,
-      "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/320-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/320-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/320-640.jpg"
+      "id": "oct30-p184",
+      "index": 184,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/184-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/184-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/184-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s034",
+      "index": 34,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s034-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s034-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s034-poster.jpg"
     },
     {
       "type": "photo",
-      "id": "oct30-p321",
-      "index": 321,
+      "id": "oct30-p032",
+      "index": 32,
       "width": 1365,
       "height": 2048,
-      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/321-2048.jpg",
-      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/321-1280.jpg",
-      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/321-640.jpg"
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/032-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/032-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/032-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p037",
+      "index": 37,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/037-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/037-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/037-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p088",
+      "index": 88,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/088-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/088-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/088-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s047",
+      "index": 47,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s047-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s047-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s047-poster.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p100",
+      "index": 100,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/100-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/100-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/100-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p195",
+      "index": 195,
+      "width": 1638,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/195-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/195-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/195-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p031",
+      "index": 31,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/031-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/031-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/031-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p044",
+      "index": 44,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/044-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/044-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/044-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s060",
+      "index": 60,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s060-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s060-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s060-poster.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p095",
+      "index": 95,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/095-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/095-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/095-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p155",
+      "index": 155,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/155-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/155-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/155-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p094",
+      "index": 94,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/094-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/094-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/094-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s072",
+      "index": 72,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s072-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s072-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s072-poster.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p191",
+      "index": 191,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/191-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/191-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/191-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p004",
+      "index": 4,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/004-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/004-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/004-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p187",
+      "index": 187,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/187-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/187-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/187-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s043",
+      "index": 43,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s043-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s043-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s043-poster.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p151",
+      "index": 151,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/151-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/151-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/151-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p050",
+      "index": 50,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/050-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/050-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/050-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p052",
+      "index": 52,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/052-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/052-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/052-640.jpg"
+    },
+    {
+      "type": "video",
+      "id": "oct30-s087",
+      "index": 87,
+      "width": 1080,
+      "height": 1920,
+      "loop": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s087-loop.mp4",
+      "full": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s087-full.mp4",
+      "poster": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/videos-v2/s087-poster.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p108",
+      "index": 108,
+      "width": 2048,
+      "height": 1365,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/108-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/108-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/108-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p075",
+      "index": 75,
+      "width": 2048,
+      "height": 1638,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/075-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/075-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/075-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p069",
+      "index": 69,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/069-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/069-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/069-640.jpg"
+    },
+    {
+      "type": "photo",
+      "id": "oct30-p177",
+      "index": 177,
+      "width": 1365,
+      "height": 2048,
+      "url2048": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/177-2048.jpg",
+      "url1280": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/177-1280.jpg",
+      "url640": "https://xxkrkwuyagm4hqb3.public.blob.vercel-storage.com/gallery/october-30-2026/photos/177-640.jpg"
     }
   ]
 }
