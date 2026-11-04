@@ -52,6 +52,7 @@ export default async function GalleryPage({ params }: PageProps) {
       photographer={config.photographer}
       photographerUrl={config.photographerUrl}
       videographer={config.videographer}
+      nextEventUrl={config.nextEventUrl}
     />
   );
 }

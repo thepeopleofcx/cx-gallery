@@ -12,6 +12,7 @@ interface MosaicGalleryProps {
   photographer: string;
   photographerUrl?: string;
   videographer?: Credit;
+  nextEventUrl?: string;
 }
 
 function CreditLink({ name, url }: Credit) {
@@ -79,6 +80,7 @@ export default function MosaicGallery({
   photographer,
   photographerUrl,
   videographer,
+  nextEventUrl = 'https://app.hello.cx/',
 }: MosaicGalleryProps) {
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const items = photos;
@@ -191,7 +193,7 @@ export default function MosaicGallery({
           <p>This event was presented by CX.</p>
           <p className="mt-3">
             <a
-              href="https://app.hello.cx/"
+              href={nextEventUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-white transition-colors"
