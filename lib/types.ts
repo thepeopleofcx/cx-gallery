@@ -51,6 +51,8 @@ export interface GalleryConfig {
   photographerUrl?: string;
   /** Optional second credit line for the video cuts */
   videographer?: Credit;
+  /** "Come join our next one" link (default https://app.hello.cx/) */
+  nextEventUrl?: string;
   /** Index into `photos` used for the home card + social image (default 0) */
   coverIndex?: number;
   source: string;
